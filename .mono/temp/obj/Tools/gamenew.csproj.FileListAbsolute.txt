@@ -1,0 +1,6 @@
+D:\Document&settings\Ketrika\Godot\gametest\gamenew\.mono\temp\bin\Tools\gamenew.dll
+D:\Document&settings\Ketrika\Godot\gametest\gamenew\.mono\temp\bin\Tools\gamenew.pdb
+D:\Document&settings\Ketrika\Godot\gametest\gamenew\.mono\temp\obj\Tools\gamenew.csprojAssemblyReference.cache
+D:\Document&settings\Ketrika\Godot\gametest\gamenew\.mono\temp\obj\Tools\gamenew.csproj.CoreCompileInputs.cache
+D:\Document&settings\Ketrika\Godot\gametest\gamenew\.mono\temp\obj\Tools\gamenew.dll
+D:\Document&settings\Ketrika\Godot\gametest\gamenew\.mono\temp\obj\Tools\gamenew.pdb
